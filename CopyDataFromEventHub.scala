@@ -1,4 +1,4 @@
-bhjjhgjgkjgljkhl// Databricks notebook source
+// Databricks notebook source
 // MAGIC %run ../_Shared/Config/SessionConfigs
 
 // COMMAND ----------
